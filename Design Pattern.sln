@@ -17,10 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Comp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{EBD25F6C-91B1-4661-97F4-5DE588AE6C43}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{723F88B4-9060-4957-BFF1-D85FCD1AAFA0}"
-	ProjectSection(SolutionItems) = preProject
-		TemplateMethod\TemplateMethod.csproj = TemplateMethod\TemplateMethod.csproj
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{447CB744-AE5C-4B99-B80E-8323638AC7E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +53,10 @@ Global
 		{EBD25F6C-91B1-4661-97F4-5DE588AE6C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD25F6C-91B1-4661-97F4-5DE588AE6C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD25F6C-91B1-4661-97F4-5DE588AE6C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
