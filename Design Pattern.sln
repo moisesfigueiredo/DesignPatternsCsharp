@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{447CB744-AE5C-4B99-B80E-8323638AC7E1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory_GUI", "AbstractFactory_GUI\AbstractFactory_GUI.csproj", "{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447CB744-AE5C-4B99-B80E-8323638AC7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
