@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory_GUI", "AbstractFactory_GUI\AbstractFactory_GUI.csproj", "{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod_GUI", "FactoryMethod_GUI\FactoryMethod_GUI.csproj", "{678D1BC1-4C51-4673-B5CF-87BF523C2661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F6D3BF3-C236-49C8-BAF8-74C9D5F14874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678D1BC1-4C51-4673-B5CF-87BF523C2661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D1BC1-4C51-4673-B5CF-87BF523C2661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D1BC1-4C51-4673-B5CF-87BF523C2661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D1BC1-4C51-4673-B5CF-87BF523C2661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
